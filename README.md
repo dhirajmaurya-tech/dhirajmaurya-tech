@@ -79,6 +79,6 @@ Enterprise-grade system for inventory, billing, HR, and reporting.
 ## 🌍 Let’s Connect  
 
 - 💻 GitHub: https://github.com/dhirajmaurya-tech  
-- 🔗 LinkedIn: https://linkedin.com/in/dhirajmaurya  
+- 🔗 LinkedIn: https://www.linkedin.com/in/dhirajmaurya-mumbai 
 
 -------------------
