@@ -6,7 +6,9 @@
 🚀 Building scalable web platforms, enterprise systems, and AI-powered applications  
 
 [![GitHub](https://img.shields.io/badge/GitHub-dhirajmaurya--tech-black?logo=github)](https://github.com/dhirajmaurya-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Maurya-blue?logo=linkedin)](https://linkedin.com/in/dhirajmaurya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhiraj%20Maurya-blue?logo=linkedin)](https://www.linkedin.com/in/dhirajmaurya-mumbai)
+
+
 
 </div>
 
